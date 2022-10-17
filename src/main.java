@@ -4,5 +4,6 @@ public class main {
         System.out.println("version2");
         System.out.println("version3");
         System.out.println("hot-fix4");
+        System.out.println("master test5");
     }
 }
